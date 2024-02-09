@@ -15,6 +15,6 @@ This project utilizes deep learning fusions to detect abnormal driving behaviors
 
 ## Installation
 ```bash
-git clone https://github.com/Nitya-gattu/Abnormal-Driving-Detection.git
+git clone https://github.com/Nitya-gattu/Video-Based-Abnormal-Driving-Detection.git
 cd Abnormal-Driving-Detection
 # Follow setup instructions
